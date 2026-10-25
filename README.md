@@ -40,9 +40,8 @@ A Python-based dashboard using Streamlit, Pandas, and Plotly to explore and visu
 
 ## 🤝 Connect With Me
 
--## 🤝 Connect With Me
-
-- 💻 [GitHub](https://github.com/Renusri-12)
-- 💼 [LinkedIn](https://www.linkedin.com/in/renu-sri-ramisetti-a125a4368/)
+- 💻 **GitHub:** [Renusri-12](https://github.com/Renusri-12)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/renu-sri-ramisetti-a125a4368/)
 
 ✨ *Code, Connect, Analyze, and Grow!*
+

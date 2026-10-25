@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Renusri! 👋
 
-<!--
-**Renusri-12/Renusri-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MCA Graduate | Aspiring Software Developer**
 
-Here are some ideas to get you started:
+I'm passionate about software development, Python programming, and computer networking. I enjoy building practical applications, exploring network traffic analysis, and continuously expanding my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+- **Programming Languages:** Java, Python, JavaScript
+- **Java Development:** Spring Boot, REST APIs, JDBC, Hibernate
+- **Frontend Development:** React.js, HTML, CSS
+- **Database:** MySQL, SQL
+- **Python & Data Analysis:** Pandas, Streamlit, Plotly
+- **Networking:** TCP/IP, OSI Model, IPv4/IPv6, Wireshark, Cisco Packet Tracer
+- **Tools:** Git, GitHub, Eclipse, VS Code, MySQL Workbench, Swagger
+
+## 🚀 Featured Projects
+
+### 🏫 Institution Management System
+A full-stack application developed using Java, Spring Boot, React.js, and MySQL.
+
+🔗 [View Project on GitHub](https://github.com/Renusri-12/institution-management-system)
+
+### 🌐 NetScope – Network Traffic Analysis Dashboard
+A Python-based dashboard using Streamlit, Pandas, and Plotly to explore and visualize network traffic data.
+
+**Technologies:** Python, Streamlit, Pandas, Plotly, Wireshark
+
+## 🎓 Education
+
+- **Master of Computer Applications (MCA)** — CGPA: 8.72
+- **Bachelor of Computer Applications (BCA)** — CGPA: 8.60
+
+## 🌱 Current Goals
+
+- Strengthening Java Full Stack Development skills
+- Building Python-based applications and data dashboards
+- Exploring computer networking and network traffic analysis
+- Seeking entry-level software development opportunities
+
+## 🤝 Connect With Me
+
+-## 🤝 Connect With Me
+
+- 💻 [GitHub](https://github.com/Renusri-12)
+- 💼 [LinkedIn](https://www.linkedin.com/in/renu-sri-ramisetti-a125a4368/)
+
+✨ *Code, Connect, Analyze, and Grow!*
